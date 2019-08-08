@@ -2,7 +2,6 @@ server:
   port: 2323
 
 
-
 spring:
   application:
     name: jcw
